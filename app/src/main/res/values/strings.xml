@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">YogaOasisBusiness</string>
+    <string name="yoga_oasis">YogaOasis</string>
+    <string name="central">Central</string>
+    <string name="welcome">welcome</string>
+    <string name="welcome_message">Welcome to YogaOasis. Every member of our staff is expertly
+        trained in the art and science of teaching yoga. We offer a wide variety of classes at
+        three locations in Tucson, Arizona. We hope to see you in a class soon!</string>
+    <string name="yoga_oasis_central">YogaOasis Central</string>
+    <string name="address">2631 N. Cambell Ave. \nTucson, AZ 85719</string>
+    <string name="contact">contact</string>
+    <string name="phone_number">1.520.322.6142</string>
+    <string name="getting_started">getting started</string>
+    <string name="getting_started_text">All of our classes are ongoing and open to drop-in students.
+        If you find a class you would like to try out, you are welcome to just show up!</string>
+    <string name="download_waiver">email waiver</string>
+    <string name="waiver_text">Save time: fill out
+        and email our waiver from anywhere using the button below.</string>
+</resources>
